@@ -98,3 +98,12 @@
     font-weight:700;
     url:src(./Fonts/Ginto/Ginto-700.woff) format("woff");
 }
+
+.background{
+    background-color:rgb(64 78 237);
+}
+
+.buttondiscord{
+    background-color:rgb(64 78 237);
+    color:rgb(255 255 255);
+}
